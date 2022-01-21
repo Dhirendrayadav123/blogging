@@ -1,0 +1,19 @@
+.bg-color{
+    background-color: #F2F2F2;
+}
+.recommend{
+    display: flex;
+    flex-wrap: wrap;
+}
+.followCard{
+    block-size: fit-content;   
+}
+.followCardImage{
+border-radius: 30px;
+}
+.cardItems{
+    width: fit-content;
+}
+.listIcon{
+    cursor: pointer;
+}
